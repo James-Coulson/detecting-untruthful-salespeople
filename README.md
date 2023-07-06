@@ -1,4 +1,4 @@
-# GPT PROMISES API
+# Untruthful salespeople and detecting them using Gen AI
 
 ## Inital set up
 
